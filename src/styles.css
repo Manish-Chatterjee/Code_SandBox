@@ -1,0 +1,13 @@
+* {
+  margin: 10px;
+}
+
+.inputField {
+  border-radius: 5px;
+  font-style: italic;
+}
+
+button {
+  margin-left: 50px;
+  min-width: 30%;
+}
